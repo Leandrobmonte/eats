@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/eats-distancia-service/pom.xml" />
         <option value="$PROJECT_DIR$/eats-pagamento-service/pom.xml" />
         <option value="$PROJECT_DIR$/eats-monolito/pom.xml" />
+        <option value="$PROJECT_DIR$/eats-distancia-service/src/main/java/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
       </list>
     </option>
   </component>
