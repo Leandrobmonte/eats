@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/eats-distancia-service/src/main/resources/db/migration/V0001__cria-tabela-restaurante.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/eats-distancia-service/src/main/resources/db/migration/V0002__popula-dados-restaurante.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/eats-monolito/eats-application/src/main/resources/db/migration/V0001__cria-tabelas-user-e-role.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/eats-monolito/eats-application/src/main/resources/db/migration/V0002__cria-tabela-tipo-de-cozinha.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/eats-monolito/eats-application/src/main/resources/db/migration/V0003__cria-tabela-forma-de-pagamento.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/eats-monolito/eats-application/src/main/resources/db/migration/V0004__cria-tabela-restaurante.sql" dialect="H2" />
+  </component>
+</project>
